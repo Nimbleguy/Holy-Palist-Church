@@ -39,11 +39,10 @@
 **Subsection B:** The Holy See may execute Palist Statutes over both the entire Holy Palist Church and specific holdings.  
 **Subsection C:** The Holy See may wage church-wide Crusades.  
 ### Section 3: Voting
-**Subsection A:** All legislation must be voted on within the Holy See.  
-**Subsection B:** Members of the Triarchal See have 1 and 1/3 voting power each.  
-**Subsection C:** Members of the non-Triarchal Holy See have 1 voting power each.  
-**Subsection D:** Partial votes are to be rounded down.  
-**Subsection E:** At least 4 voting power (according to Subsection D) is needed to pass a vote.  
+**Subsection A:** All statutes must be voted on within the Holy See.  
+**Subsection B:** Members of the Holy See have 1 vote each.  
+**Subsection C:** Majority approval is needed to pass a vote.  
+**Subsection D:** Any member of the Holy See may propose a statute.  
 ### Section 4: Election
 **Subsection A:** All non-excommunicated members of the Holy Palist Church before the voting is announced may vote.  
 **Subsection B:** Everybody gets three votes.  
