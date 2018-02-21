@@ -69,3 +69,4 @@
 **Subsection D:** After the case, the jury is to meet and vote.  
 **Subsection E:** The defendant is judged to be guilty or not guilty based on majority within the jury.  
 **Subsection F:** Severity of punishment is to be decided by referendum within the jury.  
+**Subsection G:** No persons may be tried twice for the same crime, unless substantial new evidence can be presented to the Holy See.  
