@@ -26,20 +26,20 @@
 **Subsection C:** Standard unexcommunication procedures apply afterward.  
 ## Article IV: Impeachment
 ### Section 1: Holy See
-**Subsection A:** A member of the non-Triarchal Holy See may be impeached.
-**Subsection B:** Impeachment may be carried out for any crime or inactivity.
-**Subsection C:** Impeachment may be combined with another punishment.
-**Subsection D:** Impeachment causes immediate removal from office.
-**Subsection E:** The empty seat created by impeachment is filled by special election on that seat only.
+**Subsection A:** A member of the non-Triarchal Holy See may be impeached.  
+**Subsection B:** Impeachment may be carried out for any crime or inactivity.  
+**Subsection C:** Impeachment may be combined with another punishment.  
+**Subsection D:** Impeachment causes immediate removal from office.  
+**Subsection E:** The empty seat created by impeachment is filled by special election on that seat only.  
 ### Section 2: Maddesal and Balial Sees
-**Subsection A:** A member of the Maddesal or Balial Sees may be impeached.
-**Subsection B:** Impeachment clauses from Section #1 also apply.
-**Subsection C:** The impeached title returns to the holder of the next highest title.
+**Subsection A:** A member of the Maddesal or Balial Sees may be impeached.  
+**Subsection B:** Impeachment clauses from Section #1 also apply.  
+**Subsection C:** The impeached title returns to the holder of the next highest title.  
 ## Article V: Lesser Punishments
 ### Section 1: Shaming
-**Subsection A:** A person may be shamed as punishment.
-**Subsection B:** Shaming may include distinguishment or shunning.
+**Subsection A:** A person may be shamed as punishment.  
+**Subsection B:** Shaming may include distinguishment or shunning.  
 ### Section 2: Muting
-**Subsection A:** A person may be muted in an Episcopate.
-**Subsection B:** Muting does not apply to any lower Episcopates.
-**Subsection C:** Episcopal Lords may chose to extend the mute to their Episcopate.
+**Subsection A:** A person may be muted in an Episcopate.  
+**Subsection B:** Muting does not apply to any lower Episcopates.  
+**Subsection C:** Episcopal Lords may chose to extend the mute to their Episcopate.  
