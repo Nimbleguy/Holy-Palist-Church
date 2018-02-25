@@ -57,6 +57,7 @@
 **Subsection A:** Holy Palist Law is to be based on the principals of English Common Law.  
 **Subsection B:** Excommunication may only be done by ruling of Holy Palist Court.  
 **Subsection C:** Class action suits may be undertaken.  
+**Subsection D:** Double Jeoprady may not be undertaken unless significant new evidence is found.  
 ### Section 3: The Jury
 **Subsection A:** The jury is to be composed of six people.  
 **Subsection B:** Two members are to be randomly selected within the Holy See (non-Triarchal Holy See may not be chosen if the suit involves them).  
