@@ -13,4 +13,6 @@
 ### Section 4: Heresy
 **Subsection A:** Heresy is a crime.  
 **Subsection B:** Heresy against Holy Palism includes heresy against Palism and not accepting the Holy Palist Church's authority.  
-**Subsection C:** Heresy against Palism includes believing any entity superior to the Holy Pal or not accepting the Holy Pal.
+**Subsection C:** Heresy against Palism includes believing any entity superior to the Holy Pal or not accepting the Holy Pal.  
+### Section 5: Perjury
+**Subsection A:** Lying in court, within any participatory role, is a crime.  
