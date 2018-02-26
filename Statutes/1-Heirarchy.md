@@ -57,6 +57,7 @@
 **Subsection A:** Holy Palist Law is to be based on the principals of English Common Law.  
 **Subsection B:** Excommunication may only be done by ruling of Holy Palist Court.  
 **Subsection C:** Class action suits may be undertaken.  
+**Subsection D:** Double Jeoprady may not be undertaken unless significant new evidence is found.  
 ### Section 3: The Jury
 **Subsection A:** The jury is to be composed of six people.  
 **Subsection B:** Two members are to be randomly selected within the Holy See (non-Triarchal Holy See may not be chosen if the suit involves them).  
@@ -70,3 +71,7 @@
 **Subsection E:** The defendant is judged to be guilty or not guilty based on majority within the jury.  
 **Subsection F:** Severity of punishment is to be decided by referendum within the jury.  
 **Subsection G:** No persons may be tried twice for the same crime, unless substantial new evidence can be presented to the Holy See.  
+### Section 5: Subcourts
+**Subsection A:** A court case may be done within the bounds of an Episcopate of a member of the Maddesal or Balial Sees.  
+**Subsection B:** Court cases shall be conducted in the same manner as any other court case.  
+**Subsection C:** The Holy See's role is replaced with that of the Episcopal Lord and the relevant See members under them.  
