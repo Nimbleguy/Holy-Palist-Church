@@ -37,7 +37,7 @@
 ### Section 2: Authority
 **Subsection A:** The Holy See may not excommunicate.  
 **Subsection B:** The Holy See may execute Palist Statutes over both the entire Holy Palist Church and specific holdings.  
-**Subsection C:** The Holy See may wage church-wide Crusades.  
+**Subsection C:** The Holy See may wage Crusades.  
 ### Section 3: Voting
 **Subsection A:** All statutes must be voted on within the Holy See.  
 **Subsection B:** Members of the Holy See have 1 vote each.  
