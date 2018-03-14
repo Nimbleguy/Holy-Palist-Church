@@ -69,7 +69,6 @@
 ## Article IV: Creation of a Holy Palist Court
 ### Section 1: Bringing to Court
 **Subsection A:** Anybody may bring anybody else to Holy Palist Court.  
-**Subsection B:** There may only be one court case per See at a time.  
 ### Section 2: Holy Palist Law
 **Subsection A:** Holy Palist Law is to be based on the principals of English Common Law.  
 **Subsection B:** Excommunication may only be done by ruling of Holy Palist Court.  
