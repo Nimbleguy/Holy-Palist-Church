@@ -24,16 +24,16 @@
 **Subsection A:** A standard vote in the Holy See may issue unbans.  
 **Subsection B:** Those unbanned are to be immediately excommunicated.  
 **Subsection C:** Standard unexcommunication procedures apply afterward.  
-## Article IV: Impeachment
+## Article IV: Removal from Office
 ### Section 1: Holy See
 **Subsection A:** A member of the non-Triarchal Holy See may be impeached.  
-**Subsection B:** Impeachment may be carried out for any crime or inactivity.  
-**Subsection C:** Impeachment may be combined with another punishment.  
-**Subsection D:** Impeachment causes immediate removal from office.  
-**Subsection E:** The empty seat created by impeachment is filled by special election on that seat only.  
+**Subsection B:** Removal from Office may be carried out for any crime or inactivity.  
+**Subsection C:** Removal from Office may be combined with another punishment.  
+**Subsection D:** Removal from Office causes immediate removal from office.  
+**Subsection E:** The empty seat created by Removal from Office is filled by special election on that seat only.  
 ### Section 2: Maddesal and Balial Sees
 **Subsection A:** A member of the Maddesal or Balial Sees may be impeached.  
-**Subsection B:** Impeachment clauses from Section #1 also apply.  
+**Subsection B:** Removal from Office clauses from Section #1 also apply.  
 **Subsection C:** The impeached title returns to the holder of the next highest title.  
 ## Article V: Lesser Punishments
 ### Section 1: Shaming
