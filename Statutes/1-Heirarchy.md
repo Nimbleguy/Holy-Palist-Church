@@ -86,6 +86,7 @@
 **Subsection D:** After the case, the jury is to meet and vote.  
 **Subsection E:** The defendant is judged to be guilty or not guilty based on majority within the jury.  
 **Subsection F:** Severity of punishment is to be decided by referendum within the jury.  
+**Subsection G:** Jury deliberation and discussion may only take place within the designated channel.  
 ### Section 5: Subcourts
 **Subsection A:** A court case may be done within the bounds of an Episcopate.  
 **Subsection B:** Episcopal court cases shall be conducted in the same manner as any other court case.  
