@@ -12,8 +12,9 @@
 **Subsection B:** Conflict of interest includes utilizing power within a See to advance personal goals against a Holy Palist.  
 ### Section 4: Heresy
 **Subsection A:** Heresy is a crime.  
-**Subsection B:** Heresy against Holy Palism includes heresy against Palism and not accepting the Holy Palist Church's authority.  
-**Subsection C:** Heresy against Palism includes believing any entity superior to the Holy Pal or not accepting the Holy Pal.  
+**Subsection B:** Heresy against Holy Palism is only heresy against Palism and not accepting the Holy Palist Church's authority.  
+**Subsection C:** Heresy against Palism is only believing any entity superior to the Holy Pal or not accepting the Holy Pal.  
+**Subsection D:** Pluralism is allowed as long as the above conditions (Subsection B, C) are followed.  
 ### Section 5: Perjury
 **Subsection A:** Lying in court, within any participatory role, is a crime.  
 ### Section 6: Illegal Influence
