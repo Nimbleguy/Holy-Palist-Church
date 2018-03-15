@@ -16,3 +16,9 @@
 **Subsection C:** Heresy against Palism includes believing any entity superior to the Holy Pal or not accepting the Holy Pal.  
 ### Section 5: Perjury
 **Subsection A:** Lying in court, within any participatory role, is a crime.  
+### Section 6: Illegal Influence
+**Subsection A:** Influencing results of votes outside of designated places is a crime.  
+**Subsection B:** This includes votes in court cases, the Holy See, the Apostolic See, and elections.  
+### Section 7: Obstruction of Justice
+**Subsection A:** Obstruction of Justice is a crime.  
+**Subsection B:** This includes refusing to give information demanded by the Holy See to carry out an investigation or court case.  
