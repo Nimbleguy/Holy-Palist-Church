@@ -77,7 +77,7 @@
 ### Section 3: The Jury
 **Subsection A:** The jury is to be composed of six people.  
 **Subsection B:** Two members are to be randomly selected within the Holy See (non-Triarchal Holy See may not be chosen if the suit involves them).  
-**Subsection C:** Four members are to be randomly chosen from the members of the Holy Palist Church.
+**Subsection C:** Four members are to be randomly chosen from the members of the Holy Palist Church.  
 **Subsection D:** Members chosen at large are subject to activity scrutiny by the Triarchal See and may be replaced if deemed inactive.
 ### Section 4: Procedure
 **Subsection A:** Court cases are to be precided over by a judge selected from within the Triarchal See.  
