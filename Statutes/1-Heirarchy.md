@@ -31,6 +31,7 @@
 **Subsection C:** Episcopal Lords may wage Episcopal Crusades.  
 **Subsection D:** The Executive must follow any and all Statutes.  
 **Subsection E:** Episcopal Lords may issue a decree to create a local branch of the Apostolic See.  
+**Subsection F:** Episcopal Lords may conduct investigations within their jurisdiction.
 ## Article III: Formalization of the Legislative Powers
 ### Section 1: The Holy Legislature
 **Subsection A:** The Holy See shall be upper house of the legislature.  
