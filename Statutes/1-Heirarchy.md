@@ -57,7 +57,7 @@
 **Subsection B:** Everybody gets three votes.  
 **Subsection C:** Influencing vote results outside of designated places is very illegal.  
 **Subsection D:** The people with the top three amounts of votes become Cardinals.  
-**Subsection E:** There must be one week to announce running and then vote. 
+**Subsection E:** There must be one week to announce running and then vote.  
 **Subsection F:** The non-Triarchal Holy See is to be dissolved every 3 months.  
 **Subsection G:** One may not become Cardinal for two terms in a row.  
 ### Section 5: The Apostolic Legislature
