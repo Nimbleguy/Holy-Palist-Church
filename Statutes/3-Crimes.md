@@ -22,4 +22,4 @@
 **Subsection B:** This includes votes in court cases, the Holy See, the Apostolic See, and elections.  
 ### Section 7: Obstruction of Justice
 **Subsection A:** Obstruction of Justice is a crime.  
-**Subsection B:** This includes refusing to give information demanded by the Holy See to carry out an investigation or court case.  
+**Subsection B:** This includes refusing to give information demanded by the Maddesal See or Balial See to carry out an investigation or court case.  
