@@ -25,8 +25,8 @@
 **Subsection B:** Those unbanned are to be immediately excommunicated.  
 **Subsection C:** Standard unexcommunication procedures apply afterward.  
 ## Article IV: Removal from Office
-### Section 1: Holy See
-**Subsection A:** A member of the non-Triarchal Holy See may be impeached.  
+### Section 1: Holy See and Apostolic See
+**Subsection A:** A member of the non-Triarchal Holy See or the Apostolic See may be impeached.  
 **Subsection B:** Removal from Office may be carried out for any crime or inactivity.  
 **Subsection C:** Removal from Office may be combined with another punishment.  
 **Subsection D:** Removal from Office causes immediate removal from office.  
