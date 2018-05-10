@@ -53,7 +53,7 @@
 **Subsection D:** Any member of the Holy See may propose a statute.  
 **Subsection E:** Supermajority in the Holy See is 5 votes.
 ### Section 4: Election of the Cardinals
-**Subsection A:** All non-excommunicated members of the Holy Palist Church before the voting is announced may vote.  
+**Subsection A:** All non-excommunicated Holy Palists that were members of the Holy Palist Church before the voting is announced may vote.  
 **Subsection B:** Everybody gets three votes.  
 **Subsection C:** Influencing vote results outside of designated places is very illegal.  
 **Subsection D:** The people with the top three amounts of votes become Cardinals.  
@@ -62,7 +62,8 @@
 **Subsection G:** One may not become Cardinal for two terms in a row.  
 ## Article IV: Creation of a Holy Palist Court
 ### Section 1: Bringing to Court
-**Subsection A:** Anybody may bring anybody else to Holy Palist Court.  
+**Subsection A:** Any Holy Palist may bring anybody else to Holy Palist Court.  
+**Subsection B:** The judge for a case may throw out the case if deemed frivolous or excessive.  
 ### Section 2: Holy Palist Law
 **Subsection A:** Holy Palist Law is to be based on the principals of English Common Law.  
 **Subsection B:** Excommunication may only be done by ruling of Holy Palist Court.  
