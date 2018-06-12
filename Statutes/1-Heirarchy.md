@@ -63,17 +63,17 @@
 ## Article IV: Creation of a Holy Palist Court
 ### Section 1: Bringing to Court
 **Subsection A:** Any Holy Palist may bring anybody else to Holy Palist Court.  
-**Subsection B:** The judge for a case may throw out the case if deemed frivolous or excessive.  
+**Subsection B:** The head judge for a case may throw out the case if deemed frivolous or excessive.  
 ### Section 2: Holy Palist Law
 **Subsection A:** Holy Palist Law is to be based on the principals of English Common Law.  
 **Subsection B:** Excommunication may only be done by ruling of Holy Palist Court.  
 **Subsection C:** Class action suits may be undertaken.  
 **Subsection D:** Double Jeoprady may not be undertaken unless significant new evidence is found.  
-### Section 3: The Jury
-**Subsection A:** The jury is to be composed of six people.  
-**Subsection B:** Two members are to be randomly selected within the Holy See (non-Triarchal Holy See may not be chosen if the suit involves them).  
-**Subsection C:** Four members are to be randomly chosen from the members of the Holy Palist Church.  
-**Subsection D:** Members chosen at large are subject to activity scrutiny by the Triarchal See and may be replaced if deemed inactive.
+### Section 3: The Judges
+**Subsection A:** There is to be one head judge and two lay judges. 
+**Subsection B:** The head judge is to be the main judge for the case, decided by Holy See convention.  
+**Subsection C:** One lay judge is to be chosen by each side in a case.  
+**Subsection D:** Each side of the case may veto the other's choice, however it would also veto their own choice.
 ### Section 4: Procedure
 **Subsection A:** Court cases are to be precided over by a judge selected from within the Triarchal See.  
 **Subsection B:** The judge may set a time limit on the overall court case.  
